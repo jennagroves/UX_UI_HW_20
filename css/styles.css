@@ -1,0 +1,30 @@
+.jumbotron {
+    background-color: #C45508;
+    text-align: center;
+}
+.card-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 75px;
+}
+.card-img-top {
+    width: 18rem;
+    height: 18rem;
+    object-fit: cover;
+}
+.paragraph-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.left-title {
+    text-align: center;
+}
+.right-paragraph {
+    width: 800px;
+    margin: 0;
+    padding: 0;
+}
